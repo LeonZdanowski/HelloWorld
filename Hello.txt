@@ -1,0 +1,5 @@
+Pierwszy plik w repo na gitcie...
+2 linijka
+3 linijka
+4 linijka
+5 koniec
